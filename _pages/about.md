@@ -14,7 +14,7 @@ I attended the ‘Advanced Chemical Engineering’ Master program of [Imperial C
 
 Apart from college study, I also engaged in social practice to enrich my hands-on experience. In June 2020, I took an internship in [EaglesMen Aeronautic Science & Technology Group Co., Ltd.](http://cn.ttfly.com/com/yigesiman1/) in Bejing, China, during which I designed the compounding method of magnetic nanoparticles, conductive polymer nanotubes and graphene to construct a new ternary composite nanomaterial possessing both magnetic loss and dielectric loss. The proposed composites were considered to be promising as a coating material for aircrafts.
 
-I have also been involved in integrated chemical process design, sophisticated mechanical equipment modification related projects, details of which are provided in my CV: [Zixuan's Curriculum Vitae](../assets/). I believe that the interdisciplinary co-operation would foster innovation and new perspectives.
+I have also been involved in integrated chemical process design, sophisticated mechanical equipment modification related projects, details of which are provided in my CV: [Zixuan's Curriculum Vitae](../assets/CV_Gong Zixuan.pdf). I believe that the interdisciplinary co-operation would foster innovation and new perspectives.
 
 [Email](mailto:gongzx2022@163.com) / [Github](https://github.com/GiaGong)
 
