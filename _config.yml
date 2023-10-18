@@ -13,7 +13,7 @@ name                     : &name "Zixuan Gong"
 description              : &description "A MSc student from Imperial College London"
 url                      : https://GiaGong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"https://GiaGong.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "GiaGong.github.io"
+repository               : "GiaGong/GiaGong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
