@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixuan Gong/Homepage"
+title                    : "Zixuan Gong / Homepage"
 title_separator          : "-"
 name                     : &name "Zixuan Gong"
 description              : &description "A MSc student from Imperial College London"
