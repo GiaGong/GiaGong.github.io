@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently working as a Research Assistant in the [Chinese Academy of Sciences](https://english.cas.cn/). Our research group focuses on the synthesis of multifunctional novel materials, involving the electrostatic spinning to transform material properties and high pressure homogeniser to nanosize materials. My research insterest includes Nanomaterials fabrication, Multi-scale simulation approaches, and Fluid mechanics.
+
+I attended the ‘Advanced Chemical Engineering’ Master program of [Imperial College London](https://www.imperial.ac.uk/engineering/) in 2021 and I obtained a Master of Engineering degree **with distinction**. Studying under the mentorship of [Prof. Omar K. Matar](https://www.imperial.ac.uk/people/o.matar), I have fostered a strong interest in optimizing the design and operation of continuous engineering processes. 
+
+Apart from college study, I also engaged in social practice to enrich my hands-on experience. In June 2020, I took an internship in [EaglesMen Aeronautic Science & Technology Group Co., Ltd.](https://m.youuav.com/shop/1103/index/) in Bejing, China, during which I designed the compounding method of magnetic nanoparticles, conductive polymer nanotubes and graphene to construct a new ternary composite nanomaterial possessing both magnetic loss and dielectric loss. The proposed composites were considered to be promising as a coating material for aircrafts.
+
+I have also been involved in integrated chemical process design, sophisticated mechanical equipment modification related projects, details of which are provided in my CV: [Zixuan's Curriculum Vitae](../assets/). I believe that the interdisciplinary co-operation would foster innovation and new perspectives.
+
+[Email](mailto:gongzx2022@163.com) / [Github](https://github.com/GiaGong)
 
 A data-driven personal website
 ======
